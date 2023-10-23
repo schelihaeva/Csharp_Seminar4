@@ -1,0 +1,15 @@
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\5 семинар функции и одномерные массивы\task\dz_01\bin\Debug\net6.0\dz_01.exe
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\5 семинар функции и одномерные массивы\task\dz_01\bin\Debug\net6.0\dz_01.deps.json
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\5 семинар функции и одномерные массивы\task\dz_01\bin\Debug\net6.0\dz_01.runtimeconfig.json
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\5 семинар функции и одномерные массивы\task\dz_01\bin\Debug\net6.0\dz_01.dll
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\5 семинар функции и одномерные массивы\task\dz_01\bin\Debug\net6.0\dz_01.pdb
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\5 семинар функции и одномерные массивы\task\dz_01\obj\Debug\net6.0\dz_01.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\5 семинар функции и одномерные массивы\task\dz_01\obj\Debug\net6.0\dz_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\5 семинар функции и одномерные массивы\task\dz_01\obj\Debug\net6.0\dz_01.AssemblyInfoInputs.cache
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\5 семинар функции и одномерные массивы\task\dz_01\obj\Debug\net6.0\dz_01.AssemblyInfo.cs
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\5 семинар функции и одномерные массивы\task\dz_01\obj\Debug\net6.0\dz_01.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\5 семинар функции и одномерные массивы\task\dz_01\obj\Debug\net6.0\dz_01.dll
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\5 семинар функции и одномерные массивы\task\dz_01\obj\Debug\net6.0\refint\dz_01.dll
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\5 семинар функции и одномерные массивы\task\dz_01\obj\Debug\net6.0\dz_01.pdb
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\5 семинар функции и одномерные массивы\task\dz_01\obj\Debug\net6.0\dz_01.genruntimeconfig.cache
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\5 семинар функции и одномерные массивы\task\dz_01\obj\Debug\net6.0\ref\dz_01.dll
